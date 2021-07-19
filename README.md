@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thestupendous
 - 👀 I’m interested in creating solutions, games
-- 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning networking
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me stupendousji@gmail.com
 
 <!---
